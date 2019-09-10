@@ -7,9 +7,9 @@ describe Bookmark do
       empty_bookmarks
       populate_test
       bookmarks = Bookmark.all
-      expect(bookmarks).to include("http://www.makersacademy.com")
-      expect(bookmarks).to include("http://www.destroyallsoftware.com")
-      expect(bookmarks).to include("http://www.google.com")
+      expect(bookmarks[0].title).to eq("Makers")
+      expect(bookmarks[1].title).to eq("DAS")
+      expect(bookmarks[2].title).to eq("Google")
     end
   end
 end

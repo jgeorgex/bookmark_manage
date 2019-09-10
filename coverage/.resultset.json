@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/dangyi/Documents/Projects/bookmark_manage/spec/bookmark_spec.rb": [
+      "/Users/juliangeorge/Projects/bookmark_manage/spec/bookmark_spec.rb": [
         1,
         1,
         null,
@@ -18,7 +18,8 @@
         null,
         null
       ],
-      "/Users/dangyi/Documents/Projects/bookmark_manage/spec/web_helper.rb": [
+      "/Users/juliangeorge/Projects/bookmark_manage/spec/web_helper.rb": [
+        1,
         1,
         null,
         1,
@@ -34,9 +35,10 @@
         null,
         null
       ],
-      "/Users/dangyi/Documents/Projects/bookmark_manage/spec/features/adding_bookmarks_spec.rb": [
+      "/Users/juliangeorge/Projects/bookmark_manage/spec/features/adding_bookmarks_spec.rb": [
         1,
         null,
+        1,
         1,
         1,
         1,
@@ -48,7 +50,7 @@
         null,
         null
       ],
-      "/Users/dangyi/Documents/Projects/bookmark_manage/spec/features/viewing_bookmarks_spec.rb": [
+      "/Users/juliangeorge/Projects/bookmark_manage/spec/features/viewing_bookmarks_spec.rb": [
         1,
         null,
         1,
@@ -59,10 +61,13 @@
         1,
         1,
         1,
+        1,
+        0,
+        0,
         null,
         null
       ]
     },
-    "timestamp": 1568126569
+    "timestamp": 1568131715
   }
 }

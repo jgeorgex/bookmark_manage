@@ -6,7 +6,8 @@ feature 'Adding Bookmarks' do
     populate_test
     visit '/bookmarks'
     fill_in 'url', with: "http://www.testurl.com"
+    fill_in 'title', with: "Test URL"
     click_button 'Add Bookmark'
-    expect(page).to have_content("http://www.testurl.com")
+    expect(page).to have_content("Test URL")
   end
 end
