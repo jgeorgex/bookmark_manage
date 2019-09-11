@@ -1,3 +1,5 @@
+## README
+
 Clone the repository and then run:
 bundle
 
