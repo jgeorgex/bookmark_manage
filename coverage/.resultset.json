@@ -32,7 +32,6 @@
         3,
         3,
         3,
-        null,
         null
       ],
       "/Users/juliangeorge/Projects/bookmark_manage/spec/features/adding_bookmarks_spec.rb": [
@@ -62,12 +61,12 @@
         1,
         1,
         1,
-        0,
-        0,
+        1,
+        1,
         null,
         null
       ]
     },
-    "timestamp": 1568131715
+    "timestamp": 1568194003
   }
 }

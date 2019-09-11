@@ -8,8 +8,8 @@ feature 'Viewing bookmarks' do
     expect(page).to have_content 'Makers'
     expect(page).to have_content 'DAS'
     expect(page).to have_content 'Google'
-    expect(page).to have_link 'http://www.makersacademy.com'
-    expect(page).to have_link 'http://www.destroyallsoftware.com'
-    expect(page).to have_link 'http://www.google.com'
+    expect(page).to have_link href: 'http://www.makersacademy.com'
+    expect(page).to have_link href: 'http://www.destroyallsoftware.com'
+    expect(page).to have_link href: 'http://www.google.com'
   end
 end
